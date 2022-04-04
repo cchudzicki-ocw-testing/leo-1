@@ -6,27 +6,26 @@
   "legacy_uid": "",
   "instructors": {
     "content": [
-      "f3afd059-c31d-efeb-0a87-8a5928bad494",
       "4d1ecbdf-3db1-3ded-5eac-2b8997b43142",
-      "2f45b761-ee04-f1a4-26a3-2a74936e4594"
+      "f3afd059-c31d-efeb-0a87-8a5928bad494"
     ],
     "website": "ocw-www"
   },
   "course_image": {
     "content": "",
-    "website": "leos-first-course"
+    "website": "leo-first-course"
   },
   "course_title": "Leo's First Course",
   "course_description": "Courses taught by dogs are the best.",
   "department_numbers": [
-    "8"
+    "12"
   ],
-  "extra_course_numbers": "",
+  "extra_course_numbers": "45, 67",
   "primary_course_number": "123",
   "course_image_thumbnail": {
     "content": "",
-    "website": "leos-first-course"
+    "website": "leo-first-course"
   },
   "learning_resource_types": [],
-  "site_uid": "50e2293f-3803-47b5-ad3d-c9fdb562b4a9"
+  "site_uid": "a1e12d39-3a40-4ca5-a0da-be8048973682"
 }
